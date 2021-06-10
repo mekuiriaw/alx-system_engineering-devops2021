@@ -1,5 +1,4 @@
 #!/bin/bash
-chown hello betty
-
+sudo chown betty hello
 
 
