@@ -1,0 +1,1 @@
+_this directory contains the basic scripts regarding shell Directions._
